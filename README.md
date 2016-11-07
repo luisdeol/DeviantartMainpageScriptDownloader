@@ -14,10 +14,3 @@ You can install both with the following commands, using Pip, in Windows Command 
 
 pip install bs4
 pip install requests
-
-
-I'm using the Pytho
-
-
-
-
